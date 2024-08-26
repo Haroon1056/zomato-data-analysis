@@ -22,22 +22,27 @@ This project involves analyzing Zomato restaurant data to gain insights into var
 Here are some screenshots of the key outputs from the analysis:
 
 - **Category Analysis**:
-  ![line](https://github.com/user-attachments/assets/0859eac4-21a1-4f3f-86fb-1b0bcb7557ba)
+  ![Screenshot (32)](https://github.com/user-attachments/assets/5e96337b-48ef-463f-8036-75e2fde4b645)
+
 
 
 - **Votes Analysis**:
-  ![lineplot](https://github.com/user-attachments/assets/079a4639-db71-4e0e-af3b-23244581520c)
+  ![Screenshot (33)](https://github.com/user-attachments/assets/a0810bb0-3fac-491a-af8b-5c57f952df1b)
+
 
 
 - **Rating Analysis**:
-  ![histplot](https://github.com/user-attachments/assets/518bdafe-4608-472c-a11c-a9b2d60a7b00)
+  ![Screenshot (31)](https://github.com/user-attachments/assets/edacd966-9296-4885-b769-cda2962c849b)
+
 
 
 - **online and offline order Analysis**:
-![boxplot](https://github.com/user-attachments/assets/ea175334-1493-460b-9d60-16e425d1087b)
+![Screenshot (29)](https://github.com/user-attachments/assets/e7540e68-4a3f-41e3-a22a-25d6338fec8f)
+
 
 - **Online Orders by Restaurant Type Analysis**:
-![heatmapplot](https://github.com/user-attachments/assets/71519de0-f82c-46ed-bff9-f04fe2c72f04)
+![Screenshot (30)](https://github.com/user-attachments/assets/dcc1f1e1-e956-4f8e-8e9c-183e39d969b8)
+
 
 
 ## Authors
